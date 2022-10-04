@@ -1,0 +1,12 @@
+<div class="min-h-screen text-black bg-gray-100">
+      <div class="my-4">
+        <form (ngSubmit)="searchMovie()">
+          <input class="block p-2 pl-10 text-sm rounded-lg border   bg-gray-700 border-gray-600 placeholder-gray-400 text-white focus:ring-blue-500 focus:border-blue-500" placeholder="Search on title" type="text" id="title" name="title" [(ngModel)]="search" >
+          <input type="submit" value="Search" class=" font-medium text-gray-400 rounded-lg text-sm px-4 py-2 bg-gray-800 hover:bg-gray-700 focus:bg-gray-700">
+        </form>
+      </div>
+  <div class="grid grid-cols-1 md:grid-cols-3 justify-items-center gap-4">
+    <app-movie *ngFor="let movie of movies" [movie]="movie"></app-movie>
+  </div>
+</div>
+
