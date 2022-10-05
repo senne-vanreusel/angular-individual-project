@@ -30,5 +30,10 @@ export class MovieService {
     return this.httpClient.get<any>(this.apiUrl+"&s="+title);
   }
 
+  getMoviesById(id: String) {
+    console.log(this.apiUrl+"&i="+id)
+    return this.httpClient.get<Movie>(this.apiUrl+"&i="+id);
+  }
+
 
 }

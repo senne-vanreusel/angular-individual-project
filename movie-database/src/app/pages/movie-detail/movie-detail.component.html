@@ -1,0 +1,32 @@
+<div *ngIf="movie" class="text-gray-400 grid grid-cols-2 gap-4">
+  <div class="mt-4">
+    <img [src]="movie.Poster" [alt]="movie.Title" class="w-full max-w-md rounded-xl">
+  </div>
+  <div>
+  <div class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg">
+    <h2 class="text-3xl font-medium text-center">{{movie.Title}} <span
+        class="text-sm font-normal leading-1">({{movie.Year}})</span></h2>
+    <div class="mt-5">
+      <p>{{movie.Plot}}</p>
+    </div>
+  </div>
+
+  <div class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg">
+    <div>
+      <p>Type: {{movie.Type}}</p>
+      <p>Director: {{movie.Director}}</p>
+      <p>Duration: {{movie.Runtime}}</p>
+      <p>Genre: {{movie.Genre}}</p>
+      <p>Box Office: {{movie.BoxOffice}}</p>
+    </div>
+  </div>
+
+  <div class="mt-4 shadow-lg  px-4 py-6 bg-gray-800 rounded-lg">
+    <div>
+        <p>{{movie.Awards}}</p>
+        <p>IMDB Score: {{movie.imdbRating}}</p>
+
+      </div>
+  </div>
+
+</div>
