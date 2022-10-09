@@ -1,0 +1,20 @@
+{
+ "watchlist":[
+  {
+    "imdbID":"tt2015381"
+  },
+  {
+    "imdbID":"tt1446192"
+  }
+ ],
+ "watched":[
+  {
+    "id":"tt2015381",
+    "name":"test"
+  },
+  {
+    "id":"tt2015382",
+    "name":"test2"
+  }
+ ]
+}

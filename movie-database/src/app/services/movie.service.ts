@@ -19,7 +19,7 @@ export type Response={
 export class MovieService {
 
   apiKey: string = "7391ecaa"
-  apiUrl: string="http://www.omdbapi.com/?apikey=7391ecaa"
+  apiUrl: string="http://www.omdbapi.com/?apikey=7391ecaa&plot=full"
 
   constructor(private httpClient: HttpClient) {
 

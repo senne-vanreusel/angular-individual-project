@@ -15,4 +15,9 @@ export interface Movie{
   Type: string;
   BoxOffice: string;
   imdbRating: string;
+
+
+  watched: string;
+  rating: number;
+  comment: string;
 }

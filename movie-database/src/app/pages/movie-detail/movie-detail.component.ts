@@ -22,8 +22,8 @@ export class MovieDetailComponent implements OnInit {
           this.movie = result;
         }
       )
-
     }
+
 
   }
 
