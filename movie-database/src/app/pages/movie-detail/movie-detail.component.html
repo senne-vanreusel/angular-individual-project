@@ -1,32 +1,108 @@
 <div *ngIf="movie" class="text-gray-400 grid grid-cols-2 gap-4">
-  <div class="mt-4">
-    <img [src]="movie.Poster" [alt]="movie.Title" class="w-full max-w-md rounded-xl">
-  </div>
   <div>
-  <div class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg">
-    <h2 class="text-3xl font-medium text-center">{{movie.Title}} <span
-        class="text-sm font-normal leading-1">({{movie.Year}})</span></h2>
-    <div class="mt-5">
-      <p>{{movie.Plot}}</p>
+    <div class="mt-4">
+      <img
+        [src]="movie.poster_path"
+        [alt]="movie.original_title"
+        class="w-full max-w-md rounded-xl"
+      />
     </div>
+
+    <form
+      (ngSubmit)="updateRating(movie.id)"
+      class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg"
+    >
+      <input
+        class="bg-gray-800 border-gray-700 border rounded-lg text-white px-2 my-2"
+        placeholder="{{ movie.rating }}"
+        value="{{ movie.rating }}"
+        type="number"
+        min="1"
+        max="5"
+        id="rating{{ movie.id }}"
+        name="rating{{ movie.id }}"
+        [(ngModel)]="rating"
+      />
+      <textarea
+        class="bg-gray-800 border-gray-700 border rounded-lg text-white px-2 my-2"
+        placeholder="{{ movie.comment }}"
+        value="{{ movie.comment }}"
+        type="text"
+        id="comment{{ movie.id }}"
+        name="comment{{ movie.id }}"
+        [(ngModel)]="comment"
+      ></textarea>
+
+      <input
+        type="submit"
+        value="update"
+        class="bg-gray-700 rounded-lg text-white px-4 py-2 my-2"
+      />
+    </form>
   </div>
 
-  <div class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg">
-    <div>
-      <p>Type: {{movie.Type}}</p>
-      <p>Director: {{movie.Director}}</p>
-      <p>Duration: {{movie.Runtime}}</p>
-      <p>Genre: {{movie.Genre}}</p>
-      <p>Box Office: {{movie.BoxOffice}}</p>
-    </div>
-  </div>
-
-  <div class="mt-4 shadow-lg  px-4 py-6 bg-gray-800 rounded-lg">
-    <div>
-        <p>{{movie.Awards}}</p>
-        <p>IMDB Score: {{movie.imdbRating}}</p>
-
+  <div>
+    <div class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg">
+      <h2 class="text-3xl font-medium text-center">
+        {{ movie.original_title }}
+        <span class="text-sm font-normal leading-1"
+          >({{ movie.release_date | date: "dd/MM/yyyy" }})</span
+        >
+      </h2>
+      <h3 class="text-3xl font-medium text-center tagline mt-2">
+        {{ movie.tagline }}
+      </h3>
+      <div class="mt-5">
+        <p>{{ movie.overview }}</p>
       </div>
-  </div>
+    </div>
 
+    <div class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg">
+      <div>
+        <!-- <p>Director: {{movie.Director}}</p> -->
+        <p>Duration: {{ movie.runtime }} min</p>
+        <p>Language: {{ movie.original_language }}</p>
+        <p>
+          GENRE
+          <span *ngFor="let item of movie.genres">| {{ item.name }} </span>
+        </p>
+        <p>
+          Budget: <span *ngIf="movie.budget == 0">TBA</span
+          ><span *ngIf="movie.budget != 0"
+            >{{ movie.budget | number: "4.1-5" }} $ US</span
+          >
+        </p>
+        <p>
+          Box Office: <span *ngIf="movie.revenue == 0">TBA</span
+          ><span *ngIf="movie.revenue != 0"
+            >{{ movie.revenue | number: "4.1-5" }} $ US</span
+          >
+        </p>
+        <p>IMDB Score: {{ movie.vote_average }}</p>
+      </div>
+    </div>
+
+    <div class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg">
+      <div>
+        <!-- <p>{{movie.Awards}}</p> -->
+        <p class="uppercase text-center mb-4">Production</p>
+        <img
+          src="{{ movie.production_companies[0].logo_path }}"
+          alt="{{ movie.production_companies[0].name }}"
+        />
+      </div>
+    </div>
+
+    <div class="flex mt-4">
+      <button
+        (click)="addMovieToWatchlist(movie.id)"
+        class="button bg-gray-800 px-4 py-2 rounded-lg"
+      >
+        <span>Add To Watchlist{{ movie.watched }}</span>
+      </button>
+      <button class="button bg-gray-800 px-4 py-2 rounded-lg ml-4">
+        Watched
+      </button>
+    </div>
+  </div>
 </div>

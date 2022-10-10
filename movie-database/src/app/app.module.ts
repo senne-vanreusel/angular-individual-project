@@ -11,6 +11,7 @@ import { FormsModule } from '@angular/forms';
 import { NavigationComponent } from './pages/navigation/navigation.component';
 import { WatchlistComponent } from './pages/watchlist/watchlist.component';
 import { MovieDetailComponent } from './pages/movie-detail/movie-detail.component';
+import { WatchedComponent } from './pages/watched/watched.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { MovieDetailComponent } from './pages/movie-detail/movie-detail.componen
     MovieComponent,
     NavigationComponent,
     WatchlistComponent,
-    MovieDetailComponent
+    MovieDetailComponent,
+    WatchedComponent
   ],
   imports: [
     BrowserModule,

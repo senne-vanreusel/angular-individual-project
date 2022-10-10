@@ -6,6 +6,7 @@ import { Movie } from 'src/app/interfaces/movie';
 import { Watchlist } from 'src/app/interfaces/watchlist';
 import { MovieService } from 'src/app/services/movie.service';
 import { WatchlistService } from 'src/app/services/watchlist.service';
+import { environment } from 'src/environments/environment';
 
 @Component({
   selector: 'app-watchlist',
@@ -16,19 +17,24 @@ export class WatchlistComponent implements OnInit {
 
 
   watchlist: Watchlist[] = [];
-  movies: Movie[] = [];
+  movies: any = [];
+  watch!: Watchlist;
+  inWatchList!: boolean;
+  inWatched!: boolean;
 
   constructor(private watchlistService: WatchlistService, private route: ActivatedRoute, private movieService: MovieService,private router: Router) {
-
-
   }
 
   ngOnInit(): void {
-    const movieId = "tt2015381";
+    const movieId = 642885;
     this.watchlistService.getMovies().subscribe(
       result =>this.getAllMovies(result)
     );
     console.log("watchlist" + this.watchlist)
+  }
+
+  detail(id: number) {
+    this.router.navigate(['/movie',id])
   }
 
   getAllMovies(result:Watchlist[]) {
@@ -37,26 +43,55 @@ export class WatchlistComponent implements OnInit {
 
     result.forEach(movie => {
       console.log(movie.id)
-      this.movieService.getMoviesById(movie.id).subscribe(
-        result => this.movies.push(result)
-      )
+      if (!movie.watched) {
+        this.movieService.getMoviesById(parseInt(movie.id)).subscribe(
+          result => this.movies.push(this.changeImg(result))
+        )
+      }
     });
     console.log("movies"+this.movies)
   }
 
-  removeFromWatchlist(id: string) {
+
+  removeFromWatchlist(id: number) {
     console.log("remove movie")
 
     this.watchlistService.removeFromWatchlist(id).subscribe(
-      result =>this.getAllMovies(result)
+      result => {
+           window.location.reload();
+          this.getAllMovies(result)
+      }
     );
-    window.location.reload();
   }
 
 
 
-  add(id:string) {
+  addMovieToWatched(id: number) {
+    console.log("add To Watched")
+    this.watchlistService.addMovieToWatched(id).subscribe(
+      result => {
+          window.location.reload();
+          this.getAllMovies(result)
+      }
 
+    );
+  }
+
+  changeImg(result: any): any {
+    if (!result.poster_path) {
+      result.poster_path =
+        'https://image.tmdb.org/t/p/original' +
+        result.backdrop_path +
+        '?api_key=' +
+        environment.api_key;
+    } else {
+      result.poster_path =
+        'https://image.tmdb.org/t/p/original' +
+        result.poster_path +
+        '?api_key=' +
+        environment.api_key;
+    }
+    return result
   }
 
 }

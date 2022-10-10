@@ -14,7 +14,7 @@ import { WatchlistComponent } from '../watchlist/watchlist.component';
 })
 export class MovieComponent implements OnInit {
 
-  @Input() movie!: Movie ;
+  @Input() movie!: any ;
   watchlist: Watchlist[] = [];
   movies: Movie[] = [];
 
@@ -23,33 +23,37 @@ export class MovieComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  detail(id: string) {
+  detail(id: number) {
     this.router.navigate(['/movie',id])
   }
 
-  addMovieToWatchlist(id: string) {
+  addMovieToWatchlist(id: number) {
     console.log("add movie to watchlist from movieComponent " + id)
 
 
     this.watchlistService.addMovieToWatchlist(id).subscribe(
-      result =>this.getAllMovies(result)
+      result => {
+        this.router.navigate(['watchlist'])
+        this.getAllMovies(result);
+      }
+
     );
   }
 
   getAllMovies(result:Watchlist[]) {
-    console.log(result)
+    console.log("result"+result)
     this.watchlist = result
 
     result.forEach(movie => {
-      console.log(movie.id)
-      this.movieService.getMoviesById(movie.id).subscribe(
+      console.log("Movie ID "+movie.id)
+      this.movieService.getMoviesById(parseInt(movie.id)).subscribe(
         result => this.movies.push(result)
       )
     });
     console.log("movies"+this.movies)
   }
 
-  addMovieToWatched(id: string) {
+  addMovieToWatched(id: number) {
      this.watchlistService.addMovieToWatched(id);
    }
 

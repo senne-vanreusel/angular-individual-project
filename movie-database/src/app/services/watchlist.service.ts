@@ -19,26 +19,32 @@ export class WatchlistService {
     return this.httpClient.get<any>(this.apiUrl+"MovieWatches");
     }
 
-  addMovieToWatchlist(id: string) {
+  addMovieToWatchlist(id: number) {
     console.log("add movie tot watchlist "+id)
     let headers = new HttpHeaders();
     headers = headers.set('Content-Type', 'application/json; charset=utf-8');
     // return this.httpClient.put<any>(this.apiUrl + id, { headers: headers });
-    return this.httpClient.post<any>('https://localhost:44319/api/MovieWatches', { id: id, watched: true, rating: 4.5, comment:"69 nice" })
-
+    return this.httpClient.post<any>('https://localhost:44319/api/MovieWatches', { id: id, watched: false, rating: 0, comment:"" })
   }
 
-  removeFromWatchlist(id: string) {
+  removeFromWatchlist(id: number) {
     console.log('remove move with id ' + id)
     console.log(this.apiUrl + id)
     return this.httpClient.delete<any>(this.apiUrl+"MovieWatches/"+ id);
   }
 
 
-    addMovieToWatched(id: string) {
-      alert("added movie to watched")
-    }
+  addMovieToWatched(id: number, rating:number = 0,comment:string="No comment") {
+    let headers = new HttpHeaders();
+    headers = headers.set('Content-Type', 'application/json; charset=utf-8');
+    return this.httpClient.put<any>('https://localhost:44319/api/MovieWatches/'+id, { id: id, watched: true, rating: rating, comment:comment })
+  }
 
+  removeMovieFromWatched(id: number) {
+    let headers = new HttpHeaders();
+    headers = headers.set('Content-Type', 'application/json; charset=utf-8');
+    return this.httpClient.put<any>('https://localhost:44319/api/MovieWatches/'+id, { id: id, watched: false })
+  }
 
 
 
