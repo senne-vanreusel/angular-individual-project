@@ -98,7 +98,7 @@ export class MovieDetailComponent implements OnInit {
     this.watchlistService.addMovieToWatched(id, this.rating, this.comment).subscribe(
       result => {
         this.addMovieToWatchlist(id);
-        window.location.reload();
+        // window.location.reload();
         this.getAllMovies(result);
       }
 

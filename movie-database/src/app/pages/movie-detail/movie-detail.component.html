@@ -4,17 +4,17 @@
       <img
         [src]="movie.poster_path"
         [alt]="movie.original_title"
-        class="w-full max-w-md rounded-xl"
+        class="w-full max-w-md rounded-xl mx-auto"
       />
     </div>
 
     <form
       (ngSubmit)="updateRating(movie.id)"
-      class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg"
+      class="mt-4 shadow-lg px-4 py-6 bg-gray-800 rounded-lg flex flex-col"
     >
       <input
         class="bg-gray-800 border-gray-700 border rounded-lg text-white px-2 my-2"
-        placeholder="{{ movie.rating }}"
+        placeholder="Score"
         value="{{ movie.rating }}"
         type="number"
         min="1"
@@ -25,7 +25,7 @@
       />
       <textarea
         class="bg-gray-800 border-gray-700 border rounded-lg text-white px-2 my-2"
-        placeholder="{{ movie.comment }}"
+        placeholder="Comment"
         value="{{ movie.comment }}"
         type="text"
         id="comment{{ movie.id }}"
@@ -87,6 +87,7 @@
         <!-- <p>{{movie.Awards}}</p> -->
         <p class="uppercase text-center mb-4">Production</p>
         <img
+          class="max-w-md mx-auto"
           src="{{ movie.production_companies[0].logo_path }}"
           alt="{{ movie.production_companies[0].name }}"
         />

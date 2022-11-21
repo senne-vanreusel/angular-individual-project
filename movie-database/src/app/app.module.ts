@@ -12,6 +12,7 @@ import { NavigationComponent } from './pages/navigation/navigation.component';
 import { WatchlistComponent } from './pages/watchlist/watchlist.component';
 import { MovieDetailComponent } from './pages/movie-detail/movie-detail.component';
 import { WatchedComponent } from './pages/watched/watched.component';
+import { SharedModule } from './shared/shared.module';
 
 @NgModule({
   declarations: [
@@ -25,10 +26,7 @@ import { WatchedComponent } from './pages/watched/watched.component';
     WatchedComponent
   ],
   imports: [
-    BrowserModule,
-    AppRoutingModule,
-    HttpClientModule,
-    FormsModule,
+    SharedModule
   ],
   providers: [],
   bootstrap: [AppComponent]
