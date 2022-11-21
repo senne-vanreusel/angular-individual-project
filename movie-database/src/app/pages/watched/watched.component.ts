@@ -15,10 +15,12 @@ export class WatchedComponent implements OnInit {
 
   watchlist: Watchlist[] = [];
   movies: any = [];
-
+  watched: boolean= true;
   rating!: number;
   comment!: string;
   search!: string;
+
+  sort!: number;
 
   constructor(private router: Router,private watchlistService: WatchlistService, private movieService: MovieService) { }
 
@@ -28,7 +30,30 @@ export class WatchedComponent implements OnInit {
     );
   }
 
+  changeSorting() {
+    console.log(this.sort);
+    this.getAllMovies
 
+    if (this.sort == 0) {
+      // this.movies.sort((a: any,b:any) => a.rating.rendered.localeCompare(b.rating.rendered));
+      this.movies.sort((a: any,b:any) => a.rating - b.rating);
+
+    } else if (this.sort == 1) {
+      this.movies.sort((a: any,b:any) => b.rating - a.rating);
+
+    }
+  }
+
+  searchNameandComment() {
+    if (this.search == "") {
+      this.movies = []
+      this.ngOnInit();
+    } else {
+      this.movies = this.movies.filter((movie: any) => movie.title.toLowerCase().includes(this.search.toLowerCase()) || movie.comment.toLowerCase().includes(this.search.toLowerCase()));
+    }
+
+
+  }
     getAllMovies(result:Watchlist[]) {
     console.log(result)
     this.watchlist = result
@@ -41,7 +66,7 @@ export class WatchedComponent implements OnInit {
             this.movies.push(this.changeImg(result))
             this.movies[this.movies.length - 1].rating = movie.rating;
             this.movies[this.movies.length-1].comment = movie.comment;
-
+            console.log(this.movies);
            }
       )
       }
@@ -57,7 +82,7 @@ export class WatchedComponent implements OnInit {
     this.watchlistService.addMovieToWatched(id, this.rating, this.comment)
     this.watchlistService.addMovieToWatched(id, this.rating, this.comment).subscribe(
       result => {
-        window.location.reload();
+        this.router.navigate(['watched'])
         this.getAllMovies(result);
       }
 
@@ -89,8 +114,9 @@ export class WatchedComponent implements OnInit {
     console.log("add To Watched")
     this.watchlistService.removeMovieFromWatched(id).subscribe(
       result => {
-          window.location.reload();
-          this.getAllMovies(result)
+
+          this.router.navigate(['watchlist'])
+        this.getAllMovies(result)
       }
 
     );

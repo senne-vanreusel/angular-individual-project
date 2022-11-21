@@ -58,7 +58,7 @@ export class WatchlistComponent implements OnInit {
 
     this.watchlistService.removeFromWatchlist(id).subscribe(
       result => {
-           window.location.reload();
+          this.router.navigate(['/'])
           this.getAllMovies(result)
       }
     );
@@ -70,7 +70,7 @@ export class WatchlistComponent implements OnInit {
     console.log("add To Watched")
     this.watchlistService.addMovieToWatched(id).subscribe(
       result => {
-          window.location.reload();
+          this.router.navigate(['watched'])
           this.getAllMovies(result)
       }
 

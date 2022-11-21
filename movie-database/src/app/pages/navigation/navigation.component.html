@@ -1,12 +1,29 @@
 <ul class="flex w-full">
-  <li class="mr-6">
-    <a class="text-gray-400 hover:text-gray-800" routerLink="/">Home</a>
+  <li class="mr-6 py-2">
+    <a
+      class="text-gray-400 hover:text-gray-800"
+      routerLink="/"
+      routerLinkActive="active"
+      [routerLinkActiveOptions]="{ exact: true }"
+      >Home</a
+    >
   </li>
-  <li class="mr-6">
-    <a class="text-gray-400 hover:text-gray-800" routerLink="/watchlist">Watchlist</a>
+  <li class="mr-6 py-2">
+    <a
+      class="text-gray-400 hover:text-gray-800"
+      routerLink="/watchlist"
+      routerLinkActive="active"
+      [routerLinkActiveOptions]="{ exact: true }"
+      >Watchlist</a
+    >
   </li>
-  <li class="mr-6">
-    <a class="text-gray-400 hover:text-gray-800" routerLink="/watched">Watched</a>
+  <li class="mr-6 py-2">
+    <a
+      class="text-gray-400 hover:text-gray-800"
+      routerLink="/watched"
+      routerLinkActive="active"
+      [routerLinkActiveOptions]="{ exact: true }"
+      >Watched</a
+    >
   </li>
-
 </ul>
