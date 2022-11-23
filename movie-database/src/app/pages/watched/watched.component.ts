@@ -34,11 +34,11 @@ export class WatchedComponent implements OnInit {
     console.log(this.sort);
     this.getAllMovies
 
-    if (this.sort == 0) {
+    if (this.sort == 1) {
       // this.movies.sort((a: any,b:any) => a.rating.rendered.localeCompare(b.rating.rendered));
       this.movies.sort((a: any,b:any) => a.rating - b.rating);
 
-    } else if (this.sort == 1) {
+    } else if (this.sort == 0) {
       this.movies.sort((a: any,b:any) => b.rating - a.rating);
 
     }
