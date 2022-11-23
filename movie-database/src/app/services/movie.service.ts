@@ -49,6 +49,12 @@ export class MovieService {
     return this.httpClient.get<Movie>(this.apiUrlV2+"search/movie"+this.apiKeyV2+"&query="+title);
   }
 
+  getMoviesWYear(title:string, year:string): Observable<Movie>{
+
+      console.log(this.apiUrlV2+"search/movie"+this.apiKeyV2+"&query="+title+"&primary_release_year="+year)
+
+      return this.httpClient.get<Movie>(this.apiUrlV2+"search/movie"+this.apiKeyV2+"&query="+title+"&primary_release_year="+year);
+  }
 
 
 }

@@ -51,9 +51,8 @@ export class WatchedComponent implements OnInit {
     } else {
       this.movies = this.movies.filter((movie: any) => movie.title.toLowerCase().includes(this.search.toLowerCase()) || movie.comment.toLowerCase().includes(this.search.toLowerCase()));
     }
-
-
   }
+
     getAllMovies(result:Watchlist[]) {
     console.log(result)
     this.watchlist = result

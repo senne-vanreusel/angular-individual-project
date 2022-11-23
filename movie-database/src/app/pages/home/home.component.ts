@@ -13,6 +13,7 @@ export class HomeComponent implements OnInit {
   movies!: Movie;
 
   search!: string;
+  otherSearch!: string;
 
   constructor(private movieService: MovieService) { }
 
@@ -25,9 +26,17 @@ export class HomeComponent implements OnInit {
   }
 
   searchMovie() {
-    this.movieService.getMoviesWName(this.search).subscribe(result => {
-      this.movies = this.modifyData(result);
-   });
+    if (this.search) {
+      this.movieService.getMoviesWName(this.search).subscribe(result => {
+        this.movies = this.modifyData(result);
+      });
+    } if (this.otherSearch) {
+      console.log("with year")
+      this.movieService.getMoviesWYear(this.search, this.otherSearch).subscribe(result => {
+        this.movies = this.modifyData(result);
+      });
+    }
+
   }
 
   changeImg(result: any): any {
