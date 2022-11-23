@@ -1,0 +1,30 @@
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.deps.json
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.runtimeconfig.json
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.runtimeconfig.dev.json
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\bin\Debug\net5.0\ref\Movie.DAL.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.csproj.AssemblyReference.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.AssemblyInfoInputs.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.AssemblyInfo.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.csproj.CoreCompileInputs.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\ref\Movie.DAL.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.genruntimeconfig.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.deps.json
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.runtimeconfig.json
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.runtimeconfig.dev.json
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\bin\Debug\net5.0\ref\Movie.DAL.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\bin\Debug\net5.0\Movie.DAL.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.csproj.AssemblyReference.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.AssemblyInfoInputs.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.AssemblyInfo.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.csproj.CoreCompileInputs.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\ref\Movie.DAL.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.DAL\obj\Debug\net5.0\Movie.DAL.genruntimeconfig.cache

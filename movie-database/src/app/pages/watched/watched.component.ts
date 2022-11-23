@@ -34,11 +34,11 @@ export class WatchedComponent implements OnInit {
     console.log(this.sort);
     this.getAllMovies
 
-    if (this.sort == 0) {
+    if (this.sort == 1) {
       // this.movies.sort((a: any,b:any) => a.rating.rendered.localeCompare(b.rating.rendered));
       this.movies.sort((a: any,b:any) => a.rating - b.rating);
 
-    } else if (this.sort == 1) {
+    } else if (this.sort == 0) {
       this.movies.sort((a: any,b:any) => b.rating - a.rating);
 
     }
@@ -51,9 +51,8 @@ export class WatchedComponent implements OnInit {
     } else {
       this.movies = this.movies.filter((movie: any) => movie.title.toLowerCase().includes(this.search.toLowerCase()) || movie.comment.toLowerCase().includes(this.search.toLowerCase()));
     }
-
-
   }
+
     getAllMovies(result:Watchlist[]) {
     console.log(result)
     this.watchlist = result

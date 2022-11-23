@@ -1,0 +1,304 @@
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\appsettings.json
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.API.exe
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.API.deps.json
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.API.runtimeconfig.json
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.API.runtimeconfig.dev.json
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.API.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ref\Movie.API.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.API.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.DAL.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.DAL.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.csproj.AssemblyReference.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.AssemblyInfoInputs.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.AssemblyInfo.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.csproj.CoreCompileInputs.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\staticwebassets\Movie.API.StaticWebAssets.Manifest.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\staticwebassets\Movie.API.StaticWebAssets.xml
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\scopedcss\bundle\Movie.API.styles.css
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorTargetAssemblyInfo.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.csproj.CopyComplete
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\ref\Movie.API.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.genruntimeconfig.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.API.Views.dll
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\bin\Debug\net5.0\Movie.API.Views.pdb
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorAssemblyInfo.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorAssemblyInfo.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.TagHelpers.input.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.TagHelpers.output.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorCoreGenerate.cache
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Create.cshtml.g.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Delete.cshtml.g.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Details.cshtml.g.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Edit.cshtml.g.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Index.cshtml.g.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorTargetAssemblyInfo.cs
+C:\Users\JxVdV\Documents\IT Factory\3 APP\Semester 1\Angular\TM\Projects\NET API\Movie.API\obj\Debug\net5.0\Movie.API.Views.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.StaticWebAssets.xml
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\appsettings.json
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.exe
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.deps.json
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.runtimeconfig.json
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.runtimeconfig.dev.json
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ref\Movie.API.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.Views.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.API.Views.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Humanizer.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.DAL.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\bin\Debug\net5.0\Movie.DAL.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.csproj.AssemblyReference.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.AssemblyInfoInputs.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.AssemblyInfo.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.csproj.CoreCompileInputs.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorAssemblyInfo.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorAssemblyInfo.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\scopedcss\bundle\Movie.API.styles.css
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\staticwebassets\Movie.API.StaticWebAssets.Manifest.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.TagHelpers.input.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.TagHelpers.output.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorCoreGenerate.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Create.cshtml.g.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Delete.cshtml.g.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Details.cshtml.g.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Edit.cshtml.g.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\MovieWatches\Index.cshtml.g.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorTargetAssemblyInfo.cache
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.RazorTargetAssemblyInfo.cs
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.Views.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.csproj.CopyComplete
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\ref\Movie.API.dll
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.pdb
+C:\Thomas more\2022-2023\Angular\NET API\Movie.API\obj\Debug\net5.0\Movie.API.genruntimeconfig.cache
